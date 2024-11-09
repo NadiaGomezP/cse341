@@ -1,0 +1,6 @@
+// GET ALL
+GET https://cse341-hja0.onrender.com/contacts
+
+// Id
+GET https://cse341-hja0.onrender.com/contacts/672fbfeeddcafd0191201dfe
+
