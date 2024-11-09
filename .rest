@@ -1,6 +1,11 @@
 // GET ALL
 GET https://cse341-hja0.onrender.com/contacts
+###
+GET http://localhost:3000/contacts
 
+###
 // Id
 GET https://cse341-hja0.onrender.com/contacts/672fbfeeddcafd0191201dfe
+###
+GET http://localhost:3000/contacts/672fbfeeddcafd0191201dfe
 
